@@ -105,6 +105,7 @@
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
+* [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
@@ -185,6 +186,7 @@
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
+* [Hackety Hack](http://www.hackety.com)
 * [Ruby Koans](http://www.rubykoans.com)
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 * [The Odin Project](http://www.theodinproject.com)
@@ -199,6 +201,7 @@
 
 ### SQL
 
+* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQLBolt](http://sqlbolt.com)
 
 
